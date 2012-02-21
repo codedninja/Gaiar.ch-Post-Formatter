@@ -1,0 +1,39 @@
+body {
+	padding-top: 40px;
+}
+
+.container > footer p {
+	text-align: center;
+}
+
+.container {
+	width: 820px;
+}
+
+.content .span10,
+.content .span4 {
+	min-height: 500px;
+}
+
+.content .span4 {
+	margin-left: 0;
+	padding-left: 19px;
+	border-left: 1px solid #eee;
+}
+
+.topbar .btn {
+	border: 0;
+}
+
+section {
+	padding-top: 60px;
+}
+      
+.clearfix {
+	margin-bottom: 18px;
+	zoom: 1;
+}
+
+.form-stacked {
+	margin-left: 0;
+}
